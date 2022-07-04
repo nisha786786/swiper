@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container{
+    margin-top: 30px;
+    width: 100%;
+    height: 100%;
+    background: lightblue;
+}
+.swiper{
+    width: 100%;
+   
+
+
+}
+.swiper-slide img{
+    margin-top: 50px;
+    height: 100%;
+    width: 100%;
+
+}
+
+.swiper .swiper-button-prev , .swiper .swiper-button-next{
+    color: black;
+
+}
+.swiper-pagination{
+    background: rgb(250, 250, 146);
+    
+}
+.swiper .swiper-pagination-bullet-active{
+    background: rgb(19, 121, 6);
+}
